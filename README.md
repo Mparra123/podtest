@@ -1,2 +1,2 @@
 # podtest
-Open source pods C reation
+Open source pods IOS creation test
